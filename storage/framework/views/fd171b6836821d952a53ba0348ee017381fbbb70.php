@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp64\www\rifaonline\resources\views/rifas/ativas.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<?php /**PATH /home3/villa300/public_html/resources/views/rifas/ativas.blade.php ENDPATH**/ ?>
